@@ -49,12 +49,10 @@ Here's some public project that I worked on (almost all linked to a github repo 
 
 You can find me in these
 
-[Actual] Lead Dev Bukkit - [Endorah Creation](https://endorah.net/) One of the Biggest Build Team/Event Creation Team in France
-[Actual] FullStack Dev & SysAdmin for [Sohran](https://www.youtube.com/c/Sohran) French Youtuber/Streamer 180k
-[Actual] FullStack Dev, SysAdmin & Concept designer for [Alextogy](https://www.youtube.com/c/Alextogy) French Youtuber 16k
-[Actual] Mod./Helper for [FuzeIII](https://www.youtube.com/c/FuzeIII) French Youtuber 2.55M
-
-[Gone] [2021-2022] FullStack Dev, SysAdmin & Concept designer for [PokeDraco](https://www.youtube.com/channel/UCGogCYmJUnrGw65rgYbxsgg) French Youtuber 200k
+- [Actual] Lead Dev Bukkit - [Endorah Creation](https://endorah.net/) One of the Biggest Build Team/Event Creation Team in France
+- [Actual] FullStack Dev & SysAdmin for [Sohran](https://www.youtube.com/c/Sohran) French Youtuber/Streamer 180k
+- [Actual] FullStack Dev, SysAdmin & Concept designer for [Alextogy](https://www.youtube.com/c/Alextogy) French Youtuber 16k
+- [Actual] Mod./Helper for [FuzeIII](https://www.youtube.com/c/FuzeIII) French Youtuber 2.55M
 
 
-
+- [Gone] [2021-2022] FullStack Dev, SysAdmin & Concept designer for [PokeDraco](https://www.youtube.com/channel/UCGogCYmJUnrGw65rgYbxsgg) French Youtuber 200k
