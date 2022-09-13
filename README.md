@@ -5,7 +5,7 @@
 Hi ! I'm Arcane, but you can see me as "the french computer guy".
 Oh, and also, I'm a Dev :
 
-- Experienced Java Dev
+- Experienced Java Dev (2 years +)
 - Web Dev Student (HTML, CSS, JS, NodeJS, Python, ect..)
 - SysAdmin & Server Manager
 
