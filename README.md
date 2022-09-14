@@ -11,7 +11,7 @@ Oh, and also, I'm a Dev :
 
 ## What's my job ?
 
-- Code want me to code in Minecraft, that can go from setup a server to code a plugin/mod
+- I code what you want me to in Minecraft, that can go from setup a server to code a plugin/mod
 (In fact I can do much more than Minecraft plugins/mods but that's what this portfolio's about soo..)
 - Help you improve your ideas by using my experiences and what I know about MC 
 - Be ready to help when you need me (Not all time because well I sleep sometimes)
@@ -40,7 +40,7 @@ Here's some public project that I worked on (almost all linked to a github repo 
 - [ReversedMinecraft](https://github.com/Arceus81/ReversedMinecraft) | A medium plugin that completely mess up the game
 - [TwitchWheel](https://github.com/Arceus81/TwitchWheel) | TwitchWheel Is a plugin that uses twitch4j to react to subs,cheers,subgifts and follows.
 - [BedWarsAddons-RandomChest](https://github.com/Arceus81/BedWarsAddon_RandomChest) | A plugin that adds a new mode to classic bedwars where chest spawns in special coordinates (configurable) whith custom items
-- [BoostPowder](https://github.com/Arceus81/BoostPowder) | A simple GameMode that I created to play with a friend on a building server
+- [BoostPowder](https://github.com/Arceus81/BoostPowder) | A simple PvPGame that I created to play with a friend on a building server
 - [SayWord](https://github.com/Arceus81/SayWord) | Your twitch chat choose a word (it uses twitch4j) and if you say it you die
 - I did like 15 more projects with Bukkit but they are private or under contract
 
